@@ -17,7 +17,6 @@ This repository is the official PyTorch implementation of **ACE**. **ACE** is an
 First, create a virtual environment and install all required packages. 
 ~~~
 conda create -n ace python=3.8
-pip install setuptools==65.6.3
 pip install -r requirements.txt
 ~~~
 
