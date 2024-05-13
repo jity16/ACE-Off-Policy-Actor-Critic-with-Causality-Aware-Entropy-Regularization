@@ -38,7 +38,7 @@ If you use our method or code in your research, please consider citing the paper
 
 ```
 @inproceedings{
-drm,
+ace,
 title={ACE: Off-Policy Actor-Critic with Causality-Aware Entropy Regularization},
 author={Tianying Ji, Yongyuan Liang, Yan Zeng, Yu Luo, Guowei Xu, Jiawei Guo, Ruijie Zheng, Furong Huang, Fuchun Sun, Huazhe Xu.},
 booktitle={The Forty-first International Conference on Machine Learning},
